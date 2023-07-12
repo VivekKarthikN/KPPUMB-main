@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754266877100",
+    "project_id": "kppumb-f6598",
+    "storage_bucket": "kppumb-f6598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754266877100:android:f851b7c828327fa2f14309",
+        "android_client_info": {
+          "package_name": "com.example.kppumb_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754266877100-rc88f1p2pmd613t1prepdnkpdlek95ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsFcUBvPL3dodDRwB3Grpr8j437a5RbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754266877100-rc88f1p2pmd613t1prepdnkpdlek95ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
